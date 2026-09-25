@@ -1,0 +1,29 @@
+body{
+    text-align:center;
+}
+.div-title{
+    background-color:rgb(113, 143, 107);
+    margin:auto;
+
+}
+.aboutme{
+    background-image: linear-gradient(to bottom, white, rgb(202, 255, 192));
+    border-style:solid;
+    border-width:2px;
+    border-color:rgb(113, 143, 107);
+}
+.aboutme p{
+    font-size:20px;
+}
+*{
+    margin-left:auto;
+    margin-right:auto;
+    width:800px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sites{
+    background-image: linear-gradient(to bottom, white, rgb(202, 255, 192));
+    border-style:solid;
+    border-width:2px;
+    border-color:rgb(113, 143, 107);
+}
